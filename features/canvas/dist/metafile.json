@@ -2574,7 +2574,7 @@
         "format": "esm"
       },
       "node_modules/@modelcontextprotocol/sdk/dist/esm/shared/protocol.js": {
-        "bytes": 51762,
+        "bytes": 53923,
         "imports": [
           {
             "path": "node_modules/@modelcontextprotocol/sdk/dist/esm/server/zod-compat.js",
@@ -2989,12 +2989,12 @@
         "imports": []
       },
       "node_modules/fast-uri/lib/utils.js": {
-        "bytes": 10762,
+        "bytes": 22505,
         "imports": [],
         "format": "cjs"
       },
       "node_modules/fast-uri/lib/schemes.js": {
-        "bytes": 7122,
+        "bytes": 7367,
         "imports": [
           {
             "path": "node_modules/fast-uri/lib/utils.js",
@@ -3005,7 +3005,7 @@
         "format": "cjs"
       },
       "node_modules/fast-uri/index.js": {
-        "bytes": 13202,
+        "bytes": 25881,
         "imports": [
           {
             "path": "node_modules/fast-uri/lib/utils.js",
@@ -4059,7 +4059,7 @@
         "format": "esm"
       },
       "node_modules/@modelcontextprotocol/sdk/dist/esm/server/mcp.js": {
-        "bytes": 40694,
+        "bytes": 42623,
         "imports": [
           {
             "path": "node_modules/@modelcontextprotocol/sdk/dist/esm/server/index.js",
@@ -5012,13 +5012,13 @@
             "bytesInOutput": 358
           },
           "node_modules/fast-uri/lib/utils.js": {
-            "bytesInOutput": 3768
+            "bytesInOutput": 7606
           },
           "node_modules/fast-uri/lib/schemes.js": {
-            "bytesInOutput": 2421
+            "bytesInOutput": 2526
           },
           "node_modules/fast-uri/index.js": {
-            "bytesInOutput": 4778
+            "bytesInOutput": 7719
           },
           "node_modules/ajv/dist/runtime/uri.js": {
             "bytesInOutput": 155
@@ -5318,7 +5318,7 @@
             "bytesInOutput": 574
           },
           "node_modules/@modelcontextprotocol/sdk/dist/esm/shared/protocol.js": {
-            "bytesInOutput": 16040
+            "bytesInOutput": 16686
           },
           "node_modules/@modelcontextprotocol/sdk/dist/esm/validation/ajv-provider.js": {
             "bytesInOutput": 450
@@ -5345,7 +5345,7 @@
             "bytesInOutput": 10
           },
           "node_modules/@modelcontextprotocol/sdk/dist/esm/server/mcp.js": {
-            "bytesInOutput": 14776
+            "bytesInOutput": 15635
           },
           "node_modules/@modelcontextprotocol/sdk/dist/esm/server/stdio.js": {
             "bytesInOutput": 1028
@@ -5393,7 +5393,7 @@
             "bytesInOutput": 3651
           }
         },
-        "bytes": 711044
+        "bytes": 719433
       }
     }
   },
@@ -8058,7 +8058,7 @@
         "format": "esm"
       },
       "node_modules/@modelcontextprotocol/sdk/dist/esm/shared/protocol.js": {
-        "bytes": 51762,
+        "bytes": 53923,
         "imports": [
           {
             "path": "node_modules/@modelcontextprotocol/sdk/dist/esm/server/zod-compat.js",
@@ -45954,7 +45954,7 @@
             "bytesInOutput": 269
           },
           "node_modules/@modelcontextprotocol/sdk/dist/esm/shared/protocol.js": {
-            "bytesInOutput": 16097
+            "bytesInOutput": 16749
           },
           "node_modules/@modelcontextprotocol/ext-apps/dist/src/app.js": {
             "bytesInOutput": 29495
@@ -46182,7 +46182,7 @@
             "bytesInOutput": 0
           }
         },
-        "bytes": 1198770
+        "bytes": 1199422
       },
       "features/canvas/build/.tmp/widget.css": {
         "imports": [],

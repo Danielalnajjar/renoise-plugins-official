@@ -6,7 +6,7 @@
     "server.mjs",
     "widget.html"
   ],
-  "widgetBytes": 1254522,
+  "widgetBytes": 1255174,
   "serverInputs": [
     "features/canvas/server/main.ts",
     "features/canvas/server/media/media-gateway.ts",
